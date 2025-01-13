@@ -1,9 +1,6 @@
 # John Izaak Miller, Ph.D.
 
 
----
-
-
 ## Education
 
 **Ph.D., Data Science and Engineering**;
@@ -17,9 +14,6 @@
 **B.S., Biochemistry**;
     University of California, Los Angeles.
     2011
-
-
----
 
 
 ## Experience
@@ -60,16 +54,10 @@
     Examined transcriptional regulation of circadian clock genes in *Arabidopsis thaliana*.  
 
 
----
-
-
 ## Software and Code
 
 - Author and lead developer of Functional Partitioning software <https://github.com/izaakm/jail-functional-partitioning>
 - Co-author of RWRtoolkit <https://github.com/dkainer/RWRtoolkit>
-
-
----
 
 
 ## Publications
