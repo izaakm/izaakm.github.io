@@ -55,6 +55,20 @@
 
 <!-- bibliography style APA 7th edition -->
 
+Sullivan, K. A., Kainer, D., Lane, M., Cashman, M., **Miller, J. I.**, Garvin, M. R., ... & Program, V. M. V. (2024). Multi-omic network analysis identifies dysregulated neurobiological pathways in opioid addiction. Biological Psychiatry.
+
+Sullivan, K. A., Lane, M., Cashman, M., **Miller, J. I.**, Pavicic, M., Walker, A. M., ... & Kainer, D. (2024). Analyses of GWAS signal using GRIN identify additional genes contributing to suicidal behavior. Communications Biology, 7(1), 1360.
+
+Sullivan, K. A., **Miller, J. I.**, Townsend, A., Morgan, M., Lane, M., Pavicic, M., ... & Jacobson, D. A. (2024). MENTOR: multiplex embedding of networks for team-based omics research. bioRxiv.
+
+Sullivan, K., Lane, M. J., Kainer, D., Blair, D. D., Chhetri, H. B., Wang, Y. Q., Morgan, M., Cashman, M., **Miller, J. I.**, Cliff, A., Walker, A., Furches, A., Noshay, J., Drake, M., Ireland, A. J., Missaoui, A., Kang, Y., Dehal, P., Canon, S., Jacobson, D. (2024, January). Identifying Biological Pathways Underlying Switchgrass Bioenergy Traits Using Arabidopsis thaliana Exascale/Petascale Complexity Networks Deployed in KBase. In Plant and Animal Genome Conference/PAG 31 (January 12-17, 2024). PAG.
+
+Kainer, D., Lane, M., Sullivan, K. A., **Miller, J. I.**, Cashman, M., Morgan, M., ... & Jacobson, D. A. (2024). RWRtoolkit: multi-omic network analysis using random walks on multiplex networks in any species. bioRxiv, 2024-07.
+
+Griffiths, Z. G., Putt, A. D., **Miller, J. I.**, Campa, M. F., Joyner, D. C., Pelz, O., ... & Hazen, T. C. (2023). Comparing the response of the indigenous microbial community to crude oil amendment in oxic versus hypoxic conditions. Frontiers in Microbiomes, 2, 1270352.
+
+Sullivan, K., **Miller, J. I.**, Kainer, D., Lane, M., Cashman, M., Garvin, M. R., ... & Jacobson, D. (2023). Network biology algorithms identify biological pathways underlying cigarette smoking behaviors. European Neuropsychopharmacology, 75, S98-S99.
+
 Levin, M. G., Huffman, J. E., Verma, A., Sullivan, K. A., Rodriguez, A. A., Kainer, D., Garvin, M. R., Lane, M., Cashman, M., **Miller, J. I.**, Won, H., Li, B., Luo, Y., Jarvik, G. P., Hakonarson, H., Jasper, E. A., Bick, A. G., Tsao, P. S., Ritchie, M. D., ... Damrauer, S. M. (2023). Genetics of varicose veins reveals polygenic architecture and genetic overlap with arterial and venous disease. Nature Cardiovascular Research, 1-14. https://doi.org/10.1038/s44161-022-00196-5
 
 Cope, K. R., Prates, E. T., **Miller, J. I.**, Demerdash, O. N. A., Shah, M., Kainer, D., Cliff, A., Sullivan, K., Cashman, M., Lane, M., Matthiadis, A., Labb'e, J., Tschaplinski, T. J., Jacobson, D. A., & Kalluri, U. C. (2022). Exploring the role of plant lysin motif receptor-like kinases in regulating plant-microbe interactions in the bioenergy crop Populus. Computational and Structural Biotechnology Journal. https://doi.org/10.1016/j.csbj.2022.12.052
