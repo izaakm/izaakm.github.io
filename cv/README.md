@@ -23,7 +23,7 @@
     High Performance and Scientific Computing,
     Office of Innovative Technologies,
     University of Tennesse, Knoxville.
-    2023 - Present.
+    2023 - Present.\
     Work closely with researchers to analyze biological data using high performance computing resources.
 
 **Postdoctoral Research Associate**;
