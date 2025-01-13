@@ -1,7 +1,7 @@
-theme: jekyll-theme-dinky
+# theme: jekyll-theme-dinky
 # theme: jekyll-theme-hacker
 # theme: jekyll-theme-midnight
-# theme: jekyll-theme-minima
+theme: jekyll-theme-minima
 # theme: jekyll-theme-minimal
 title: Izaak's homepage
 description: Bookmark this to keep an eye on my project updates!
