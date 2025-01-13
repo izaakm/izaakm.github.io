@@ -1,5 +1,9 @@
 # John Izaak Miller, Ph.D.
 
+
+---
+
+
 ## Education
 
 **Ph.D., Data Science and Engineering**;
@@ -15,40 +19,57 @@
     2011
 
 
+---
+
+
 ## Experience
+
+**Research Consultant**;
+    Bioinformatics Computing Support,
+    High Performance and Scientific Computing,
+    Office of Innovative Technologies,
+    University of Tennesse, Knoxville.
+    2023 - Present.
+    Work closely with researchers to analyze biological data using high performance computing resources.
 
 **Postdoctoral Research Associate**;
     Computational and Predictive Biology group,
     Oak Ridge National Laboratory.
-    2020 - Present\
+    2020 - 2023.\
     Multi-omics data analysis using machine learning.
 
 **Graduate Research Fellow**;
     University of Tennessee, Knoxville,
     Oak Ridge National Laboratory.
-    2013 - 2019\
+    2013 - 2019.\
     Developed models of microbial communities in oil-contaminated marine environments.
 
 **Post-Bachelor's Research Assistant**;
     University of California, Los Angeles.
-    2011 - 2013\
+    2011 - 2013.\
     Assisted development of transgenic *Bacillus subtilis* toward consolidated bioprocessing.
 
 **Teaching Assistant**;
     University of California, Los Angeles.
-    2011 - 2013\
+    2011 - 2013.\
     Prepared and led discussion section for Biochemistry 153A (Introduction to Structure, Enzymes, and Metabolism).
 
 **Undergraduate Research Assistant**;
     University of California, Los Angeles.
-    2010 - 2011\
+    2010 - 2011.\
     Examined transcriptional regulation of circadian clock genes in *Arabidopsis thaliana*.  
+
+
+---
 
 
 ## Software and Code
 
 - Author and lead developer of Functional Partitioning software <https://github.com/izaakm/jail-functional-partitioning>
 - Co-author of RWRtoolkit <https://github.com/dkainer/RWRtoolkit>
+
+
+---
 
 
 ## Publications
